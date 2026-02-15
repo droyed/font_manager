@@ -1,4 +1,4 @@
-# font_manager — System fonts for matplotlib
+# Font Manager — System fonts for matplotlib
 
 A lightweight Python library for enumerating every font matplotlib can use,
 extracting rich metadata from each font file via fontTools, and filtering the
